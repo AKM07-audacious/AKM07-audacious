@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AKM07-audacious
-- 👀 I’m interested in music and coading
+- 👀 I’m interested in Full Stack web development | MEARN stack |
 - 🌱 I’m currently learning html, css and js
 - 💞️ I’m looking to collaborate on Wed dev projects.
 - 📫 How to reach me 
